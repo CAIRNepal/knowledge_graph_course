@@ -1,0 +1,47 @@
+# Core Database Drivers
+neo4j
+SPARQLWrapper
+
+# Data Processing
+pandas
+numpy
+
+# Jupyter Notebook Support
+jupyter
+ipykernel
+notebook
+ipywidgets
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Pretty Printing and Display
+tabulate
+colorama
+rich
+
+# Environment Management
+python-dotenv
+
+# API Clients (for LLM integration in Module 4)
+openai
+anthropic
+
+# Graph Analysis (optional but useful)
+networkx
+pyvis
+
+# Data Validation
+pydantic
+
+# HTTP Requests
+requests
+urllib3
+
+
+
+
+# Progress Bars (nice for data loading)
+tqdm
