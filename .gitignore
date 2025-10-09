@@ -1,16 +1,13 @@
-# Environment variable files (dotenv)
-# Ignore local .env files which may contain secrets
+
+
 .env
-# Ignore any other dotenv variants like .env.local, .env.development, etc.
+
 .env.*
 
-# Keep an example env file in the repo for documentation/setup purposes
 !.env.example
 
-# Python virtual environments - common names
-# `env/`, `venv/`, and `.venv/` are commonly used. Trailing slash ensures directories only.
+
 env/
 venv/
 .venv/
 
-# If you used backslashes on Windows, prefer forward slashes in .gitignore; Git normalizes them.
